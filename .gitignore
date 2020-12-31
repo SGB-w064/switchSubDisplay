@@ -1,0 +1,8 @@
+# batch version file
+SubDisplayStatus.dat
+SubDisplaySwitchOnOff.bat
+
+# pyinstaller file
+*.spec
+# folder
+*/
